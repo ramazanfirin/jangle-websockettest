@@ -48,8 +48,8 @@ public class Test {
 		//stompClient.setMessageConverter(new StringMessageConverter());
 		
 		
-		String user1 = "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0ZXN0dXNlcjE0IiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTU1OTk5MDkzMH0.isD2LfewJPqZzUC2swrb0JCd2W99iwMKyZdpKQDEJ84kyyX9KUrYj_ahSbA_QZ2XIw6ACqb_KebPKmTh-9WN_g";
-		StompSession session = getSession(user1, "testuser14", stompClient);
+		String user1 = "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0ZXN0IiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTU5MjUxODEzNn0.L84z1CgHJGbg3R6sNU-NLvnaMw5IqvTph3r5UhZAvPWi4aJ_92wrD5mdmyQ4zJs0z5WWRoDsOq27cmr-qY_Mjw";
+		StompSession session = getSession(user1, stompClient);
 		session.subscribe("/user/exchange/amq.direct/chat.message", new StompFrameHandler() {
 			   
 			ObjectMapper objectMapper = new ObjectMapper();
@@ -70,8 +70,8 @@ public class Test {
 		});
 
 		
-		String user2 ="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImF1dGgiOiJST0xFX0FETUlOLFJPTEVfVVNFUiIsImV4cCI6MTU1OTk5MDg4N30.-uJtefd8_pDcsNRTPR9eFv8bF8aHcmPB4IsqQ8uP_WfkjS6PeJl-TQeDeW0CaRCxSj-ifi_NjbyGCzkyWGQa8g";
-		StompSession session2 = getSession(user2, "admin", stompClient);
+		String user2 ="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJyYW1hemFuIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTU5MjUxOTk4MH0.EE_-m_mFc3T5rOTGL--tHWNSwhl77LJlXyfY2mxLxi1Xmy8kFKcs0NYNeNkxvCoGBfnmWY9SeJEcmJPeXFT6xg";
+		StompSession session2 = getSession(user2,  stompClient);
 		session2.subscribe("/user/exchange/amq.direct/chat.message", new StompFrameHandler() {
 		   
 			public Type getPayloadType(StompHeaders headers) {
@@ -92,15 +92,15 @@ public class Test {
 		//session.send("/user/admin/exchange/amq.direct/chat.message", "4sdfdsdfsfsa411111111112");
 //		ObjectMapper objectMapper = new ObjectMapper();
 		SendMessageVm sendMessageVm = new SendMessageVm();
-    	sendMessageVm.setMessage("test message");
-    	sendMessageVm.setTargetUsername("admin");
+    	sendMessageVm.setMessage("test message 2");
+    	sendMessageVm.setTargetUsername("ramazan");
 		//session.send("/chat.private."+"admin", objectMapper.writeValueAsString(sendMessageVm));
-		session.send("/chat.private."+"admin", sendMessageVm);
+		session.send("/chat.private."+"ramazan", sendMessageVm);
 //		
-//		System.out.println("bitti");
+		System.out.println("bitti");
 		
 		//testMessageNotAllowed(session);
-		testMessageNotOnline(session);
+		//testMessageNotOnline(session);
 		
 		new Scanner(System.in).nextLine(); // Don't close immediately.
 	}
@@ -130,8 +130,8 @@ public class Test {
 	}
 	
 	
-	public static StompSession getSession(String token, String username,WebSocketStompClient stompClient) throws InterruptedException, ExecutionException {
-		String URL2 = "http://176.33.14.111:8080/websocket?access_token="+token;
+	public static StompSession getSession(String token, WebSocketStompClient stompClient) throws InterruptedException, ExecutionException {
+		String URL2 = "http://ec2-44-231-193-13.us-west-2.compute.amazonaws.com:8080/websocket?access_token="+token;
 		
 		StompSessionHandler sessionHandler2 = new SessionHandler();
 		StompSession session2 = stompClient.connect(URL2, sessionHandler2).get();

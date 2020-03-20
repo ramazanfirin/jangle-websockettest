@@ -1,0 +1,2363 @@
+{
+	"data": 
+	[
+		{
+			"publish": 
+			{
+				"publisher": 
+				{
+					"referanceId": null,
+					"uuid": "4769121f-d3f7-4ce0-a70b-593af1fad6e6",
+					"name": null,
+					"surname": null,
+					"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/678ecec2-6938-4497-8f4f-d5d7fa86b256_b5ee7b31-69bd-407a-b647-6d41addc52b0_j_img.jpg",
+					"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/695e292a-6914-44c4-88b8-54c20db6c658_0c7e9213-e132-445e-ab1f-95cdb20b75fc_t_img.jpg",
+					"explanation": null,
+					"isOnline": false,
+					"notificationFollowingVoted": true,
+					"notificationFollowingLiked": true,
+					"notificationFollowingPublishJangle": true,
+					"notificationNotFollowingVoted": true,
+					"notificationNotFollowingLiked": true,
+					"notificationNotFollowingStartFollowing": true,
+					"notificationInteractions": true,
+					"notificationInnovations": true,
+					"notificationFollowingCompletionAdded": true,
+					"notificationNotFollowingCompletionAdded": true,
+					"active": true,
+					"langKey": "tr",
+					"username": "abdurrahim",
+					"hiddenAccount": false,
+					"supportChat": true,
+					"point": 0,
+					"approvedCompletionCount": 0,
+					"averagePoint": 0.0,
+					"followingCount": 1,
+					"followerCount": 3,
+					"isBlocked": false,
+					"isTargetBlocked": false,
+					"isFollowing": false,
+					"followInformation": 
+					{
+						"followUuid": null,
+						"followStatus": "NOT_FOLLOWING",
+						"creationDate": null,
+						"notificationsIsActive": null
+					},
+
+					"phoneNumber": "5326126680",
+					"phoneCode": "90",
+					"phone": "905326126680"
+				},
+
+				"uuid": "a1cf15e1-d99d-4529-a1fe-b7aa9dd64474",
+				"creationDate": "2019-08-13T06:28:55.394+0000"
+			},
+
+			"parentDocument": null,
+			"uuid": "bec703f0-350f-4eb8-93b5-e2c2cdc82b4c",
+			"fileUrl": "https://d5g46p1eyotte.cloudfront.net/ec09b69c-4da1-400a-acf6-0b27f55a4f67.jpg",
+			"imageUrl": "https://d5g46p1eyotte.cloudfront.net/ec09b69c-4da1-400a-acf6-0b27f55a4f67_preview.jpg",
+			"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/ec09b69c-4da1-400a-acf6-0b27f55a4f67_thumbnail.jpg",
+			"fileType": "IMAGE",
+			"contentType": "",
+			"title": "gunaydin",
+			"description": null,
+			"active": true,
+			"notActiveReason": null,
+			"expireIn24Hours": false,
+			"expireDate": null,
+			"duration": 0,
+			"completions": 
+			[
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "d0bfef2e-062f-4ebb-9d09-16cb164d4924",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/108b6d82-b31d-4a6e-b98b-29b5c3c839d4_2a23b315-7bc3-463d-a4dc-5611c90f9842_j_img.jpg",
+								"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/09e307f8-7c42-42ca-bc92-4a42e2d30834_fb2ef4a7-ffb3-42a0-9bff-d9a41692db0b_t_img.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "hamit",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 7,
+								"approvedCompletionCount": 2,
+								"averagePoint": 3.0,
+								"followingCount": 5,
+								"followerCount": 5,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "d96ec1ad-1e14-4fd5-91c9-6f4913da13a4",
+							"creationDate": "2019-08-13T06:33:45.533+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "cf7e1149-04e0-4741-bb76-6ed5cc265466",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/90cc084b-3fa2-4837-96ac-2632f51105f3.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/90cc084b-3fa2-4837-96ac-2632f51105f3_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/90cc084b-3fa2-4837-96ac-2632f51105f3_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "gunaydin",
+						"description": "tunaydinnn",
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 1,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-24T11:31:28.186+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "f2418f90-dc20-4342-b5cc-ae2037dbc30d",
+					"creationDate": "2019-08-13T06:33:45.751+0000",
+					"approveDate": "2019-08-13T06:34:08.485+0000",
+					"approveDateMiliseconds": 1565678048485,
+					"approved": true,
+					"score": 3
+				}
+			],
+
+			"liked": false,
+			"archived": false,
+			"nsfwControlCompleted": null,
+			"requestForManuelNsfwControl": null,
+			"requestForManuelNsfwControlDate": null,
+			"manuelNsfwControlCompleted": false,
+			"documentType": "JANGLE",
+			"likeCount": 0,
+			"displayCount": 0,
+			"completionCount": 1,
+			"detailDescription": null,
+			"isMainDocument": true,
+			"nsfwScore": null,
+			"tempOrderDate": "2019-08-13T06:28:55.392+0000"
+		},
+
+		{
+			"publish": 
+			{
+				"publisher": 
+				{
+					"referanceId": null,
+					"uuid": "66d175a1-dac7-4011-aab9-519f229f2813",
+					"name": "ercan",
+					"surname": null,
+					"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/388646ec-0b8f-4ce2-8a6a-78ae3e401168_2299e433-3119-48ab-bded-2f55a83e2df9_j_img.jpg",
+					"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/e3583a32-a2d8-423f-a5a0-872c2c2fb326_c811c3d1-756f-43e1-8b3b-d06b41e1387f_t_img.jpg",
+					"explanation": null,
+					"isOnline": false,
+					"notificationFollowingVoted": true,
+					"notificationFollowingLiked": true,
+					"notificationFollowingPublishJangle": true,
+					"notificationNotFollowingVoted": true,
+					"notificationNotFollowingLiked": true,
+					"notificationNotFollowingStartFollowing": true,
+					"notificationInteractions": true,
+					"notificationInnovations": true,
+					"notificationFollowingCompletionAdded": true,
+					"notificationNotFollowingCompletionAdded": true,
+					"active": true,
+					"langKey": "tr",
+					"username": "dede",
+					"hiddenAccount": false,
+					"supportChat": true,
+					"point": 5,
+					"approvedCompletionCount": 1,
+					"averagePoint": 5.0,
+					"followingCount": 2,
+					"followerCount": 7,
+					"isBlocked": false,
+					"isTargetBlocked": false,
+					"isFollowing": false,
+					"followInformation": 
+					{
+						"followUuid": null,
+						"followStatus": "NOT_FOLLOWING",
+						"creationDate": null,
+						"notificationsIsActive": null
+					},
+
+					"phoneNumber": null,
+					"phoneCode": null,
+					"phone": "nullnull"
+				},
+
+				"uuid": "cac4a49e-1e70-46bb-b35a-d64175c90d4e",
+				"creationDate": "2019-08-07T17:02:07.422+0000"
+			},
+
+			"parentDocument": null,
+			"uuid": "164984f6-8aa4-4f8f-b802-dd5c82485cdc",
+			"fileUrl": "https://d5g46p1eyotte.cloudfront.net/baa36f1d-6aea-4d4c-afb0-0f4e4e78627e.jpg",
+			"imageUrl": "https://d5g46p1eyotte.cloudfront.net/baa36f1d-6aea-4d4c-afb0-0f4e4e78627e_preview.jpg",
+			"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/baa36f1d-6aea-4d4c-afb0-0f4e4e78627e_thumbnail.jpg",
+			"fileType": "IMAGE",
+			"contentType": "",
+			"title": "uhhuu",
+			"description": null,
+			"active": true,
+			"notActiveReason": null,
+			"expireIn24Hours": false,
+			"expireDate": null,
+			"duration": 0,
+			"completions": 
+			[
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "e96a794f-e3c3-4667-abe4-ae92156e46dd",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-big.jpg",
+								"imageThumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-small.jpg",
+								"explanation": "",
+								"isOnline": false,
+								"notificationFollowingVoted": false,
+								"notificationFollowingLiked": false,
+								"notificationFollowingPublishJangle": false,
+								"notificationNotFollowingVoted": false,
+								"notificationNotFollowingLiked": false,
+								"notificationNotFollowingStartFollowing": false,
+								"notificationInteractions": true,
+								"notificationInnovations": false,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": false,
+								"active": true,
+								"langKey": "tr",
+								"username": "testuser1",
+								"hiddenAccount": true,
+								"supportChat": false,
+								"point": 6,
+								"approvedCompletionCount": 2,
+								"averagePoint": 3.0,
+								"followingCount": 4,
+								"followerCount": 1,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "37726e72-c74a-442b-907d-9bb63e56ada0",
+							"creationDate": "2019-08-08T13:49:46.045+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "bf81b221-89c9-4e84-83f9-86370aa46606",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/7e4ed748-6e71-4ffd-9326-5e3caaf5f0fc.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/7e4ed748-6e71-4ffd-9326-5e3caaf5f0fc_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/7e4ed748-6e71-4ffd-9326-5e3caaf5f0fc_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "uhhuu",
+						"description": "text",
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-08T13:49:46.042+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "0abf21ea-b693-41ab-b338-c39577d8909c",
+					"creationDate": "2019-08-08T13:49:46.201+0000",
+					"approveDate": "2019-08-24T14:37:26.368+0000",
+					"approveDateMiliseconds": 1566657446368,
+					"approved": true,
+					"score": 3
+				}
+			],
+
+			"liked": false,
+			"archived": false,
+			"nsfwControlCompleted": null,
+			"requestForManuelNsfwControl": null,
+			"requestForManuelNsfwControlDate": null,
+			"manuelNsfwControlCompleted": false,
+			"documentType": "JANGLE",
+			"likeCount": 0,
+			"displayCount": 0,
+			"completionCount": 1,
+			"detailDescription": null,
+			"isMainDocument": true,
+			"nsfwScore": null,
+			"tempOrderDate": "2019-08-07T17:02:07.418+0000"
+		},
+
+		{
+			"publish": 
+			{
+				"publisher": 
+				{
+					"referanceId": null,
+					"uuid": "66d175a1-dac7-4011-aab9-519f229f2813",
+					"name": "ercan",
+					"surname": null,
+					"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/388646ec-0b8f-4ce2-8a6a-78ae3e401168_2299e433-3119-48ab-bded-2f55a83e2df9_j_img.jpg",
+					"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/e3583a32-a2d8-423f-a5a0-872c2c2fb326_c811c3d1-756f-43e1-8b3b-d06b41e1387f_t_img.jpg",
+					"explanation": null,
+					"isOnline": false,
+					"notificationFollowingVoted": true,
+					"notificationFollowingLiked": true,
+					"notificationFollowingPublishJangle": true,
+					"notificationNotFollowingVoted": true,
+					"notificationNotFollowingLiked": true,
+					"notificationNotFollowingStartFollowing": true,
+					"notificationInteractions": true,
+					"notificationInnovations": true,
+					"notificationFollowingCompletionAdded": true,
+					"notificationNotFollowingCompletionAdded": true,
+					"active": true,
+					"langKey": "tr",
+					"username": "dede",
+					"hiddenAccount": false,
+					"supportChat": true,
+					"point": 5,
+					"approvedCompletionCount": 1,
+					"averagePoint": 5.0,
+					"followingCount": 2,
+					"followerCount": 7,
+					"isBlocked": false,
+					"isTargetBlocked": false,
+					"isFollowing": false,
+					"followInformation": 
+					{
+						"followUuid": null,
+						"followStatus": "NOT_FOLLOWING",
+						"creationDate": null,
+						"notificationsIsActive": null
+					},
+
+					"phoneNumber": null,
+					"phoneCode": null,
+					"phone": "nullnull"
+				},
+
+				"uuid": "521a9041-69e3-4d0e-bed5-c75ea51938f0",
+				"creationDate": "2019-08-07T17:03:05.844+0000"
+			},
+
+			"parentDocument": null,
+			"uuid": "59085387-2060-4426-a9a0-53eb17348c30",
+			"fileUrl": "https://d5g46p1eyotte.cloudfront.net/9f1c04d3-9856-4117-a8d1-44732680150f.jpg",
+			"imageUrl": "https://d5g46p1eyotte.cloudfront.net/9f1c04d3-9856-4117-a8d1-44732680150f_preview.jpg",
+			"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/9f1c04d3-9856-4117-a8d1-44732680150f_thumbnail.jpg",
+			"fileType": "IMAGE",
+			"contentType": "",
+			"title": "ejjejsus",
+			"description": null,
+			"active": true,
+			"notActiveReason": null,
+			"expireIn24Hours": false,
+			"expireDate": null,
+			"duration": 0,
+			"completions": 
+			[
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "769dded3-dc6d-4463-bb37-8b2a8ad53e0c",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-red-big.jpg",
+								"imageThumbnailUrl": "https://d7v4dn1iozjuj.cloudfront.net/avatars/profile-image-red-small.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "kraldondu",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 23,
+								"approvedCompletionCount": 6,
+								"averagePoint": 3.0,
+								"followingCount": 2,
+								"followerCount": 1,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "c442de1d-180d-48c9-9b62-02fd14c4c52a",
+							"creationDate": "2019-08-08T05:39:58.909+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "bf915dca-98d0-49da-9785-103ae8412b1a",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/f08765ce-54f6-43f8-ae35-44b7f4f7cf83.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/f08765ce-54f6-43f8-ae35-44b7f4f7cf83_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/f08765ce-54f6-43f8-ae35-44b7f4f7cf83_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "ejjejsus",
+						"description": "cokis",
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-08T05:39:58.906+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "9fa3dae7-1831-4a1c-ba5e-24a5edd50c86",
+					"creationDate": "2019-08-08T05:39:59.252+0000",
+					"approveDate": "2019-08-08T05:40:51.956+0000",
+					"approveDateMiliseconds": 1565242851956,
+					"approved": true,
+					"score": 5
+				},
+
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "e96a794f-e3c3-4667-abe4-ae92156e46dd",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-big.jpg",
+								"imageThumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-small.jpg",
+								"explanation": "",
+								"isOnline": false,
+								"notificationFollowingVoted": false,
+								"notificationFollowingLiked": false,
+								"notificationFollowingPublishJangle": false,
+								"notificationNotFollowingVoted": false,
+								"notificationNotFollowingLiked": false,
+								"notificationNotFollowingStartFollowing": false,
+								"notificationInteractions": true,
+								"notificationInnovations": false,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": false,
+								"active": true,
+								"langKey": "tr",
+								"username": "testuser1",
+								"hiddenAccount": true,
+								"supportChat": false,
+								"point": 6,
+								"approvedCompletionCount": 2,
+								"averagePoint": 3.0,
+								"followingCount": 4,
+								"followerCount": 1,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "3af3ed95-a846-4fca-9ef2-83e3ae03d63d",
+							"creationDate": "2019-08-07T19:48:49.277+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "1bd55477-6f1c-49c1-aefd-9b2c9876e5db",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/1332cbf4-cc64-4fe2-8465-765e30242253.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/1332cbf4-cc64-4fe2-8465-765e30242253_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/1332cbf4-cc64-4fe2-8465-765e30242253_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "ejjejsus",
+						"description": null,
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-08T13:47:41.871+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "440954f7-b573-4a83-b496-0235a26ce037",
+					"creationDate": "2019-08-07T19:48:49.412+0000",
+					"approveDate": "2019-08-08T05:27:09.517+0000",
+					"approveDateMiliseconds": 1565242029517,
+					"approved": true,
+					"score": 3
+				}
+			],
+
+			"liked": false,
+			"archived": false,
+			"nsfwControlCompleted": null,
+			"requestForManuelNsfwControl": null,
+			"requestForManuelNsfwControlDate": null,
+			"manuelNsfwControlCompleted": false,
+			"documentType": "JANGLE",
+			"likeCount": 0,
+			"displayCount": 0,
+			"completionCount": 2,
+			"detailDescription": null,
+			"isMainDocument": true,
+			"nsfwScore": null,
+			"tempOrderDate": "2019-08-07T17:03:05.839+0000"
+		},
+
+		{
+			"publish": 
+			{
+				"publisher": 
+				{
+					"referanceId": null,
+					"uuid": "d0bfef2e-062f-4ebb-9d09-16cb164d4924",
+					"name": null,
+					"surname": null,
+					"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/108b6d82-b31d-4a6e-b98b-29b5c3c839d4_2a23b315-7bc3-463d-a4dc-5611c90f9842_j_img.jpg",
+					"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/09e307f8-7c42-42ca-bc92-4a42e2d30834_fb2ef4a7-ffb3-42a0-9bff-d9a41692db0b_t_img.jpg",
+					"explanation": null,
+					"isOnline": false,
+					"notificationFollowingVoted": true,
+					"notificationFollowingLiked": true,
+					"notificationFollowingPublishJangle": true,
+					"notificationNotFollowingVoted": true,
+					"notificationNotFollowingLiked": true,
+					"notificationNotFollowingStartFollowing": true,
+					"notificationInteractions": true,
+					"notificationInnovations": true,
+					"notificationFollowingCompletionAdded": true,
+					"notificationNotFollowingCompletionAdded": true,
+					"active": true,
+					"langKey": "tr",
+					"username": "hamit",
+					"hiddenAccount": false,
+					"supportChat": true,
+					"point": 7,
+					"approvedCompletionCount": 2,
+					"averagePoint": 3.0,
+					"followingCount": 5,
+					"followerCount": 5,
+					"isBlocked": false,
+					"isTargetBlocked": false,
+					"isFollowing": false,
+					"followInformation": 
+					{
+						"followUuid": null,
+						"followStatus": "NOT_FOLLOWING",
+						"creationDate": null,
+						"notificationsIsActive": null
+					},
+
+					"phoneNumber": null,
+					"phoneCode": null,
+					"phone": "nullnull"
+				},
+
+				"uuid": "6703eba2-89b8-4b40-98b8-728b7ad5a057",
+				"creationDate": "2019-08-09T07:24:30.304+0000"
+			},
+
+			"parentDocument": null,
+			"uuid": "1f64d3fd-6b04-4bc7-b2ec-d449a6d3c511",
+			"fileUrl": "https://d5g46p1eyotte.cloudfront.net/8632095a-9b72-46e7-841c-54c7ab6d1c79.jpg",
+			"imageUrl": "https://d5g46p1eyotte.cloudfront.net/8632095a-9b72-46e7-841c-54c7ab6d1c79_preview.jpg",
+			"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/8632095a-9b72-46e7-841c-54c7ab6d1c79_thumbnail.jpg",
+			"fileType": "IMAGE",
+			"contentType": "",
+			"title": "mutlu bayramlar",
+			"description": null,
+			"active": true,
+			"notActiveReason": null,
+			"expireIn24Hours": false,
+			"expireDate": null,
+			"duration": 0,
+			"completions": 
+			[
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "51077097-066c-4246-bef3-1e6082bdae2a",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-big.jpg",
+								"imageThumbnailUrl": "https://d7v4dn1iozjuj.cloudfront.net/avatars/profile-image-green-small.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "ali2",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 10,
+								"approvedCompletionCount": 3,
+								"averagePoint": 3.0,
+								"followingCount": 2,
+								"followerCount": 1,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "eb5ad2d1-2520-41af-828e-9934edc0dc04",
+							"creationDate": "2019-08-09T07:36:53.314+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "add5e98d-2a56-461c-9ebc-9d0c1b2432d4",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/05c63a57-4d95-4698-ab05-2c915aa10619.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/05c63a57-4d95-4698-ab05-2c915aa10619_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/05c63a57-4d95-4698-ab05-2c915aa10619_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "mutlu bayramlar",
+						"description": null,
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-09T07:36:53.310+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "7e2b049c-dae1-48b4-8d61-7bca5c86dc67",
+					"creationDate": "2019-08-09T07:36:53.448+0000",
+					"approveDate": "2019-08-09T07:37:14.671+0000",
+					"approveDateMiliseconds": 1565336234671,
+					"approved": true,
+					"score": 3
+				},
+
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "51077097-066c-4246-bef3-1e6082bdae2a",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-big.jpg",
+								"imageThumbnailUrl": "https://d7v4dn1iozjuj.cloudfront.net/avatars/profile-image-green-small.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "ali2",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 10,
+								"approvedCompletionCount": 3,
+								"averagePoint": 3.0,
+								"followingCount": 2,
+								"followerCount": 1,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "bfbb519b-1f53-4b97-b2c2-fa54524025e1",
+							"creationDate": "2019-08-09T07:25:56.559+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "b5d850c0-f4a0-46ba-a942-21802d573f6f",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/1f2dbb60-3660-40e5-a9ff-9c20aa6a901d.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/1f2dbb60-3660-40e5-a9ff-9c20aa6a901d_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/1f2dbb60-3660-40e5-a9ff-9c20aa6a901d_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "mutlu bayramlar",
+						"description": null,
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-09T07:25:56.554+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "934bdfc7-7ff8-42d6-bb9a-b62d21047a0e",
+					"creationDate": "2019-08-09T07:25:56.696+0000",
+					"approveDate": "2019-08-09T07:26:28.932+0000",
+					"approveDateMiliseconds": 1565335588932,
+					"approved": true,
+					"score": 3
+				}
+			],
+
+			"liked": false,
+			"archived": false,
+			"nsfwControlCompleted": null,
+			"requestForManuelNsfwControl": null,
+			"requestForManuelNsfwControlDate": null,
+			"manuelNsfwControlCompleted": false,
+			"documentType": "JANGLE",
+			"likeCount": 0,
+			"displayCount": 0,
+			"completionCount": 2,
+			"detailDescription": null,
+			"isMainDocument": true,
+			"nsfwScore": null,
+			"tempOrderDate": "2019-08-09T07:24:30.299+0000"
+		},
+
+		{
+			"publish": 
+			{
+				"publisher": 
+				{
+					"referanceId": null,
+					"uuid": "d0bfef2e-062f-4ebb-9d09-16cb164d4924",
+					"name": null,
+					"surname": null,
+					"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/108b6d82-b31d-4a6e-b98b-29b5c3c839d4_2a23b315-7bc3-463d-a4dc-5611c90f9842_j_img.jpg",
+					"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/09e307f8-7c42-42ca-bc92-4a42e2d30834_fb2ef4a7-ffb3-42a0-9bff-d9a41692db0b_t_img.jpg",
+					"explanation": null,
+					"isOnline": false,
+					"notificationFollowingVoted": true,
+					"notificationFollowingLiked": true,
+					"notificationFollowingPublishJangle": true,
+					"notificationNotFollowingVoted": true,
+					"notificationNotFollowingLiked": true,
+					"notificationNotFollowingStartFollowing": true,
+					"notificationInteractions": true,
+					"notificationInnovations": true,
+					"notificationFollowingCompletionAdded": true,
+					"notificationNotFollowingCompletionAdded": true,
+					"active": true,
+					"langKey": "tr",
+					"username": "hamit",
+					"hiddenAccount": false,
+					"supportChat": true,
+					"point": 7,
+					"approvedCompletionCount": 2,
+					"averagePoint": 3.0,
+					"followingCount": 5,
+					"followerCount": 5,
+					"isBlocked": false,
+					"isTargetBlocked": false,
+					"isFollowing": false,
+					"followInformation": 
+					{
+						"followUuid": null,
+						"followStatus": "NOT_FOLLOWING",
+						"creationDate": null,
+						"notificationsIsActive": null
+					},
+
+					"phoneNumber": null,
+					"phoneCode": null,
+					"phone": "nullnull"
+				},
+
+				"uuid": "2e334fd1-3f24-4b6a-a366-06afe31d8e31",
+				"creationDate": "2019-08-08T15:03:25.199+0000"
+			},
+
+			"parentDocument": null,
+			"uuid": "c1873524-2241-40b8-863e-330ad8ec801e",
+			"fileUrl": "https://d5g46p1eyotte.cloudfront.net/05c18231-15a1-48d4-9234-8120e3668e8f.jpg",
+			"imageUrl": "https://d5g46p1eyotte.cloudfront.net/05c18231-15a1-48d4-9234-8120e3668e8f_preview.jpg",
+			"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/05c18231-15a1-48d4-9234-8120e3668e8f_thumbnail.jpg",
+			"fileType": "IMAGE",
+			"contentType": "",
+			"title": "beni tamamla",
+			"description": null,
+			"active": true,
+			"notActiveReason": null,
+			"expireIn24Hours": false,
+			"expireDate": null,
+			"duration": 0,
+			"completions": 
+			[
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "769dded3-dc6d-4463-bb37-8b2a8ad53e0c",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-red-big.jpg",
+								"imageThumbnailUrl": "https://d7v4dn1iozjuj.cloudfront.net/avatars/profile-image-red-small.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "kraldondu",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 23,
+								"approvedCompletionCount": 6,
+								"averagePoint": 3.0,
+								"followingCount": 2,
+								"followerCount": 1,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "399f876c-6f63-42d4-81a3-ab65a3ec9301",
+							"creationDate": "2019-08-08T17:46:44.079+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "d555a759-145b-4737-ac52-6dfb17e6a617",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/cda2ff7f-a48b-4b4c-945c-cb06668f5658.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/cda2ff7f-a48b-4b4c-945c-cb06668f5658_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/cda2ff7f-a48b-4b4c-945c-cb06668f5658_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "beni tamamla",
+						"description": "naber",
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-08T17:46:44.076+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "cca6bb58-1b4b-44d4-882d-4c1e0b173602",
+					"creationDate": "2019-08-08T17:46:44.207+0000",
+					"approveDate": "2019-08-08T17:48:56.373+0000",
+					"approveDateMiliseconds": 1565286536373,
+					"approved": true,
+					"score": 3
+				},
+
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "51077097-066c-4246-bef3-1e6082bdae2a",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-big.jpg",
+								"imageThumbnailUrl": "https://d7v4dn1iozjuj.cloudfront.net/avatars/profile-image-green-small.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "ali2",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 10,
+								"approvedCompletionCount": 3,
+								"averagePoint": 3.0,
+								"followingCount": 2,
+								"followerCount": 1,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "8bb25683-4662-4d70-9141-8a486d62d457",
+							"creationDate": "2019-08-08T15:19:35.270+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "ebfbe0df-388e-4b60-a431-c2c46127fa30",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/b58a8294-d7aa-4743-8bbf-ed8f19bfb11e.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/b58a8294-d7aa-4743-8bbf-ed8f19bfb11e_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/b58a8294-d7aa-4743-8bbf-ed8f19bfb11e_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "beni tamamla",
+						"description": null,
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-08T15:19:35.267+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "ce42b630-e0da-4773-8c19-83c63123797d",
+					"creationDate": "2019-08-08T15:19:35.410+0000",
+					"approveDate": "2019-08-08T17:47:50.125+0000",
+					"approveDateMiliseconds": 1565286470125,
+					"approved": true,
+					"score": 4
+				}
+			],
+
+			"liked": false,
+			"archived": false,
+			"nsfwControlCompleted": null,
+			"requestForManuelNsfwControl": null,
+			"requestForManuelNsfwControlDate": null,
+			"manuelNsfwControlCompleted": false,
+			"documentType": "JANGLE",
+			"likeCount": 1,
+			"displayCount": 0,
+			"completionCount": 2,
+			"detailDescription": null,
+			"isMainDocument": true,
+			"nsfwScore": null,
+			"tempOrderDate": "2019-08-09T19:03:21.179+0000"
+		},
+
+		{
+			"publish": 
+			{
+				"publisher": 
+				{
+					"referanceId": null,
+					"uuid": "76b74d17-52ea-47ad-925c-a7d3b8df5bad",
+					"name": null,
+					"surname": null,
+					"imageUrl": "https://d5g46p1eyotte.cloudfront.net/c18aa14b-67d2-4328-8055-c645df299e50_47f4bb46-023a-4983-b6bd-7321caa4f4a4_j_img.jpg",
+					"imageThumbnailUrl": "https://d7v4dn1iozjuj.cloudfront.net/b12a60d3-8d73-4713-80eb-e2cad614256c_e7a9c57c-65ce-4d74-a151-9c9f97cd852a_t_img.jpg",
+					"explanation": null,
+					"isOnline": false,
+					"notificationFollowingVoted": true,
+					"notificationFollowingLiked": true,
+					"notificationFollowingPublishJangle": true,
+					"notificationNotFollowingVoted": true,
+					"notificationNotFollowingLiked": true,
+					"notificationNotFollowingStartFollowing": true,
+					"notificationInteractions": true,
+					"notificationInnovations": true,
+					"notificationFollowingCompletionAdded": true,
+					"notificationNotFollowingCompletionAdded": true,
+					"active": true,
+					"langKey": "tr",
+					"username": "dark_shadowtr",
+					"hiddenAccount": false,
+					"supportChat": true,
+					"point": 0,
+					"approvedCompletionCount": 0,
+					"averagePoint": 0.0,
+					"followingCount": 0,
+					"followerCount": 0,
+					"isBlocked": false,
+					"isTargetBlocked": false,
+					"isFollowing": false,
+					"followInformation": 
+					{
+						"followUuid": null,
+						"followStatus": "NOT_FOLLOWING",
+						"creationDate": null,
+						"notificationsIsActive": null
+					},
+
+					"phoneNumber": null,
+					"phoneCode": null,
+					"phone": "nullnull"
+				},
+
+				"uuid": "c444cdb9-579d-4c5c-b190-506d79fe548b",
+				"creationDate": "2019-08-09T19:15:15.979+0000"
+			},
+
+			"parentDocument": null,
+			"uuid": "1ca5d0db-83e1-452f-9c66-33108cbcf6b3",
+			"fileUrl": "https://d5g46p1eyotte.cloudfront.net/4e69748d-d8f4-4184-aa89-bcefd2690cba.jpg",
+			"imageUrl": "https://d5g46p1eyotte.cloudfront.net/4e69748d-d8f4-4184-aa89-bcefd2690cba_preview.jpg",
+			"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/4e69748d-d8f4-4184-aa89-bcefd2690cba_thumbnail.jpg",
+			"fileType": "IMAGE",
+			"contentType": "",
+			"title": "Olsada Yesek",
+			"description": null,
+			"active": true,
+			"notActiveReason": null,
+			"expireIn24Hours": false,
+			"expireDate": null,
+			"duration": 0,
+			"completions": 
+			[
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "54857940-8bff-440e-9680-35ea46a9f6c6",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/e9ee65cb-3d7b-4316-8774-cc8c0a943411_b0fb2036-962c-4792-9a4c-0e04d45962f0_j_img.jpg",
+								"imageThumbnailUrl": "https://d7v4dn1iozjuj.cloudfront.net/06a85449-42bf-421c-9edd-2a2beb50e414_83318f9e-4551-4c13-978f-ba28bb12f1ff_t_img.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "yavuz",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 4,
+								"approvedCompletionCount": 1,
+								"averagePoint": 4.0,
+								"followingCount": 0,
+								"followerCount": 0,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": "5306104405",
+								"phoneCode": "90",
+								"phone": "905306104405"
+							},
+
+							"uuid": "24930f34-cd7a-400a-bdf3-1949355d083d",
+							"creationDate": "2019-08-09T19:18:20.570+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "6911102b-bcfb-4b81-831f-21e09e601455",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/ba08f53d-9a6c-41f6-8fd0-df3abb519fbd.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/ba08f53d-9a6c-41f6-8fd0-df3abb519fbd_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/ba08f53d-9a6c-41f6-8fd0-df3abb519fbd_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "Olsada Yesek",
+						"description": "yersen",
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-09T20:15:15.578+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "3da3997a-c624-442b-87cf-9fe8f1360f90",
+					"creationDate": "2019-08-09T19:18:20.893+0000",
+					"approveDate": "2019-08-09T19:19:29.306+0000",
+					"approveDateMiliseconds": 1565378369306,
+					"approved": true,
+					"score": 5
+				}
+			],
+
+			"liked": false,
+			"archived": false,
+			"nsfwControlCompleted": null,
+			"requestForManuelNsfwControl": null,
+			"requestForManuelNsfwControlDate": null,
+			"manuelNsfwControlCompleted": false,
+			"documentType": "JANGLE",
+			"likeCount": 0,
+			"displayCount": 0,
+			"completionCount": 1,
+			"detailDescription": null,
+			"isMainDocument": true,
+			"nsfwScore": null,
+			"tempOrderDate": "2019-08-09T19:15:15.976+0000"
+		},
+
+		{
+			"publish": 
+			{
+				"publisher": 
+				{
+					"referanceId": null,
+					"uuid": "30d36d7f-99dd-4d3a-8b24-a7d55d1e2c79",
+					"name": null,
+					"surname": null,
+					"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/041aaf0a-980a-4d64-ae5e-216c46ef70f7_e8798bbc-408c-4511-9b6b-29d93eb2af16_j_img.jpg",
+					"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/5e7449d8-c676-4596-ada2-e2f18b1d730a_6007caee-d56e-4387-b6c8-ec8925f3907e_t_img.jpg",
+					"explanation": null,
+					"isOnline": false,
+					"notificationFollowingVoted": true,
+					"notificationFollowingLiked": true,
+					"notificationFollowingPublishJangle": true,
+					"notificationNotFollowingVoted": true,
+					"notificationNotFollowingLiked": true,
+					"notificationNotFollowingStartFollowing": true,
+					"notificationInteractions": true,
+					"notificationInnovations": true,
+					"notificationFollowingCompletionAdded": true,
+					"notificationNotFollowingCompletionAdded": true,
+					"active": true,
+					"langKey": "tr",
+					"username": "levent",
+					"hiddenAccount": true,
+					"supportChat": true,
+					"point": 0,
+					"approvedCompletionCount": 0,
+					"averagePoint": 0.0,
+					"followingCount": 0,
+					"followerCount": 0,
+					"isBlocked": false,
+					"isTargetBlocked": false,
+					"isFollowing": false,
+					"followInformation": 
+					{
+						"followUuid": null,
+						"followStatus": "NOT_FOLLOWING",
+						"creationDate": null,
+						"notificationsIsActive": null
+					},
+
+					"phoneNumber": null,
+					"phoneCode": null,
+					"phone": "nullnull"
+				},
+
+				"uuid": "e2ed32b7-af29-4182-bc75-14dd7fb3ebbf",
+				"creationDate": "2019-08-12T14:48:33.587+0000"
+			},
+
+			"parentDocument": null,
+			"uuid": "f895d7cb-71c0-4584-93a8-b74f7947e428",
+			"fileUrl": "https://d5g46p1eyotte.cloudfront.net/cdb72c17-d609-4e56-a007-009ac39b0e06.jpg",
+			"imageUrl": "https://d5g46p1eyotte.cloudfront.net/cdb72c17-d609-4e56-a007-009ac39b0e06_preview.jpg",
+			"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/cdb72c17-d609-4e56-a007-009ac39b0e06_thumbnail.jpg",
+			"fileType": "IMAGE",
+			"contentType": "",
+			"title": "eekle",
+			"description": null,
+			"active": true,
+			"notActiveReason": null,
+			"expireIn24Hours": false,
+			"expireDate": null,
+			"duration": 0,
+			"completions": 
+			[
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "53b118e8-4c15-4bdf-a44a-aa4cd08adbd4",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/9cdeeefa-51e6-4378-b2bc-2974487e2f33_7a98f807-100b-4236-87e7-1f0e346f7ceb_j_img.jpg",
+								"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/8c6adbf4-8d55-4212-a78e-ca400d0be284_eccead46-e2ac-48ba-9331-aec5eba34a9b_t_img.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "haluk",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 6,
+								"approvedCompletionCount": 2,
+								"averagePoint": 3.0,
+								"followingCount": 1,
+								"followerCount": 0,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "488304f6-8a10-4e4e-9a1f-5680e83e4f11",
+							"creationDate": "2019-08-12T14:50:59.797+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "f2cffd85-ff4f-4802-8fa7-20d4f4ab9e29",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/4f9809b6-0fff-4518-b8de-623f0c94e13e.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/4f9809b6-0fff-4518-b8de-623f0c94e13e_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/4f9809b6-0fff-4518-b8de-623f0c94e13e_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "eekle",
+						"description": null,
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-12T14:50:59.794+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "823772a1-3ba0-43a3-bda6-4970e5d5d26b",
+					"creationDate": "2019-08-12T14:50:59.937+0000",
+					"approveDate": "2019-08-12T14:51:04.649+0000",
+					"approveDateMiliseconds": 1565621464649,
+					"approved": true,
+					"score": 1
+				},
+
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "53b118e8-4c15-4bdf-a44a-aa4cd08adbd4",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/9cdeeefa-51e6-4378-b2bc-2974487e2f33_7a98f807-100b-4236-87e7-1f0e346f7ceb_j_img.jpg",
+								"imageThumbnailUrl": "https://s3.us-west-2.amazonaws.com/jangle-upload-test-v3/8c6adbf4-8d55-4212-a78e-ca400d0be284_eccead46-e2ac-48ba-9331-aec5eba34a9b_t_img.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "haluk",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 6,
+								"approvedCompletionCount": 2,
+								"averagePoint": 3.0,
+								"followingCount": 1,
+								"followerCount": 0,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "c3efa7ab-3ec9-4163-b114-17f2a647ba68",
+							"creationDate": "2019-08-12T14:49:11.909+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "9ffecf51-5164-4d5d-b46e-191344019780",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/eea01320-d8ca-4911-a016-54a2753b3f14.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/eea01320-d8ca-4911-a016-54a2753b3f14_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/eea01320-d8ca-4911-a016-54a2753b3f14_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "eekle",
+						"description": null,
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-12T14:49:11.906+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "857812c5-adaa-4bcf-ab11-6624118e6668",
+					"creationDate": "2019-08-12T14:49:12.067+0000",
+					"approveDate": "2019-08-12T14:49:23.526+0000",
+					"approveDateMiliseconds": 1565621363526,
+					"approved": true,
+					"score": 5
+				}
+			],
+
+			"liked": false,
+			"archived": false,
+			"nsfwControlCompleted": null,
+			"requestForManuelNsfwControl": null,
+			"requestForManuelNsfwControlDate": null,
+			"manuelNsfwControlCompleted": false,
+			"documentType": "JANGLE",
+			"likeCount": 0,
+			"displayCount": 0,
+			"completionCount": 2,
+			"detailDescription": null,
+			"isMainDocument": true,
+			"nsfwScore": null,
+			"tempOrderDate": "2019-08-12T14:48:33.583+0000"
+		},
+
+		{
+			"publish": 
+			{
+				"publisher": 
+				{
+					"referanceId": null,
+					"uuid": "240ff27c-cab1-4bfa-93ea-d1645b94764f",
+					"name": null,
+					"surname": null,
+					"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-big.jpg",
+					"imageThumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-small.jpg",
+					"explanation": null,
+					"isOnline": false,
+					"notificationFollowingVoted": true,
+					"notificationFollowingLiked": true,
+					"notificationFollowingPublishJangle": true,
+					"notificationNotFollowingVoted": true,
+					"notificationNotFollowingLiked": true,
+					"notificationNotFollowingStartFollowing": true,
+					"notificationInteractions": true,
+					"notificationInnovations": true,
+					"notificationFollowingCompletionAdded": true,
+					"notificationNotFollowingCompletionAdded": true,
+					"active": true,
+					"langKey": "tr",
+					"username": "aksam",
+					"hiddenAccount": false,
+					"supportChat": true,
+					"point": 0,
+					"approvedCompletionCount": 0,
+					"averagePoint": 0.0,
+					"followingCount": 0,
+					"followerCount": 0,
+					"isBlocked": false,
+					"isTargetBlocked": false,
+					"isFollowing": false,
+					"followInformation": 
+					{
+						"followUuid": null,
+						"followStatus": "NOT_FOLLOWING",
+						"creationDate": null,
+						"notificationsIsActive": null
+					},
+
+					"phoneNumber": null,
+					"phoneCode": null,
+					"phone": "nullnull"
+				},
+
+				"uuid": "10cee900-b81d-4452-b9df-7dc33897f3c6",
+				"creationDate": "2019-08-12T11:37:44.145+0000"
+			},
+
+			"parentDocument": null,
+			"uuid": "ceb4d656-db82-40f9-8146-6fd968b1ca98",
+			"fileUrl": "https://d5g46p1eyotte.cloudfront.net/b22a48cd-9b19-4b6e-b5b9-3f13d96d7770.jpg",
+			"imageUrl": "https://d5g46p1eyotte.cloudfront.net/b22a48cd-9b19-4b6e-b5b9-3f13d96d7770_preview.jpg",
+			"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/b22a48cd-9b19-4b6e-b5b9-3f13d96d7770_thumbnail.jpg",
+			"fileType": "IMAGE",
+			"contentType": "",
+			"title": "hhhhh",
+			"description": null,
+			"active": true,
+			"notActiveReason": null,
+			"expireIn24Hours": false,
+			"expireDate": null,
+			"duration": 0,
+			"completions": 
+			[
+				{
+					"start": 
+					{
+						"publish": 
+						{
+							"publisher": 
+							{
+								"referanceId": null,
+								"uuid": "b93c8f2a-368c-493c-9559-1dfd028fd9f0",
+								"name": null,
+								"surname": null,
+								"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-blue-big.jpg",
+								"imageThumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-blue-small.jpg",
+								"explanation": null,
+								"isOnline": false,
+								"notificationFollowingVoted": true,
+								"notificationFollowingLiked": true,
+								"notificationFollowingPublishJangle": true,
+								"notificationNotFollowingVoted": true,
+								"notificationNotFollowingLiked": true,
+								"notificationNotFollowingStartFollowing": true,
+								"notificationInteractions": true,
+								"notificationInnovations": true,
+								"notificationFollowingCompletionAdded": true,
+								"notificationNotFollowingCompletionAdded": true,
+								"active": true,
+								"langKey": "tr",
+								"username": "deidei",
+								"hiddenAccount": false,
+								"supportChat": true,
+								"point": 5,
+								"approvedCompletionCount": 1,
+								"averagePoint": 5.0,
+								"followingCount": 0,
+								"followerCount": 0,
+								"isBlocked": false,
+								"isTargetBlocked": false,
+								"isFollowing": false,
+								"followInformation": 
+								{
+									"followUuid": null,
+									"followStatus": "NOT_FOLLOWING",
+									"creationDate": null,
+									"notificationsIsActive": null
+								},
+
+								"phoneNumber": null,
+								"phoneCode": null,
+								"phone": "nullnull"
+							},
+
+							"uuid": "1c90bb41-9b45-4f63-9fc6-75ebce477bc2",
+							"creationDate": "2019-08-12T11:38:48.599+0000"
+						},
+
+						"parentDocument": null,
+						"uuid": "fffa3192-8543-4852-a9fa-45e70a94905f",
+						"fileUrl": "https://d5g46p1eyotte.cloudfront.net/4c363806-c3d2-485f-a5b0-a8edcefbe21e.jpg",
+						"imageUrl": "https://d5g46p1eyotte.cloudfront.net/4c363806-c3d2-485f-a5b0-a8edcefbe21e_preview.jpg",
+						"thumbnailUrl": "https://d5g46p1eyotte.cloudfront.net/4c363806-c3d2-485f-a5b0-a8edcefbe21e_thumbnail.jpg",
+						"fileType": "IMAGE",
+						"contentType": "",
+						"title": "hhhhh",
+						"description": "hshzhz",
+						"active": true,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": "COMPLETION",
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": "2019-08-12T11:38:48.596+0000"
+					},
+
+					"endDocument": 
+					{
+						"publish": null,
+						"parentDocument": null,
+						"uuid": null,
+						"fileUrl": null,
+						"imageUrl": null,
+						"thumbnailUrl": null,
+						"fileType": null,
+						"contentType": null,
+						"title": null,
+						"description": null,
+						"notActiveReason": null,
+						"expireIn24Hours": false,
+						"expireDate": null,
+						"duration": 0,
+						"completions": 
+						[
+							
+						],
+
+						"liked": false,
+						"archived": false,
+						"nsfwControlCompleted": null,
+						"requestForManuelNsfwControl": null,
+						"requestForManuelNsfwControlDate": null,
+						"manuelNsfwControlCompleted": false,
+						"documentType": null,
+						"likeCount": 0,
+						"displayCount": 0,
+						"completionCount": 0,
+						"detailDescription": null,
+						"isMainDocument": false,
+						"nsfwScore": null,
+						"tempOrderDate": null
+					},
+
+					"uuid": "51f3b461-c8c3-4289-9972-9648448b7cd8",
+					"creationDate": "2019-08-12T11:38:48.782+0000",
+					"approveDate": "2019-08-12T11:39:44.173+0000",
+					"approveDateMiliseconds": 1565609984173,
+					"approved": true,
+					"score": 5
+				}
+			],
+
+			"liked": false,
+			"archived": false,
+			"nsfwControlCompleted": null,
+			"requestForManuelNsfwControl": null,
+			"requestForManuelNsfwControlDate": null,
+			"manuelNsfwControlCompleted": false,
+			"documentType": "JANGLE",
+			"likeCount": 1,
+			"displayCount": 0,
+			"completionCount": 1,
+			"detailDescription": null,
+			"isMainDocument": true,
+			"nsfwScore": null,
+			"tempOrderDate": "2019-08-12T16:23:09.519+0000"
+		}
+	],
+
+	"currentUser": 
+	{
+		"referanceId": null,
+		"uuid": "38d04747-ad7c-422d-979d-52dadf399600",
+		"name": null,
+		"surname": null,
+		"imageUrl": "https://d5g46p1eyotte.cloudfront.net/avatars/profile-image-green-big.jpg",
+		"imageThumbnailUrl": "https://d7v4dn1iozjuj.cloudfront.net/avatars/profile-image-green-small.jpg",
+		"explanation": null,
+		"isOnline": false,
+		"notificationFollowingVoted": true,
+		"notificationFollowingLiked": true,
+		"notificationFollowingPublishJangle": true,
+		"notificationNotFollowingVoted": true,
+		"notificationNotFollowingLiked": true,
+		"notificationNotFollowingStartFollowing": true,
+		"notificationInteractions": true,
+		"notificationInnovations": true,
+		"notificationFollowingCompletionAdded": true,
+		"notificationNotFollowingCompletionAdded": true,
+		"active": true,
+		"langKey": "tr",
+		"username": "rfirin",
+		"hiddenAccount": false,
+		"supportChat": true,
+		"point": 0,
+		"approvedCompletionCount": 0,
+		"averagePoint": 0.0,
+		"followingCount": 0,
+		"followerCount": 0,
+		"isBlocked": false,
+		"isTargetBlocked": false,
+		"isFollowing": false,
+		"followInformation": 
+		{
+			"followUuid": null,
+			"followStatus": "NOT_FOLLOWING",
+			"creationDate": null,
+			"notificationsIsActive": null
+		},
+
+		"phoneNumber": "5345482946",
+		"phoneCode": "90",
+		"phone": "905345482946"
+	},
+
+	"paginationDataVM": 
+	{
+		"lastQueryParameter": 1567057073151
+	}
+}
